@@ -1,0 +1,22 @@
+{
+  "name": "deb-react",
+  "description": "Devniel Boilerplate for React.js",
+  "main": "gulpfile.js",
+  "authors": [
+    "Daniel (devniel) Flores"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs/",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.3"
+  }
+}
